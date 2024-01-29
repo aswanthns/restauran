@@ -1,0 +1,226 @@
+body{
+    padding: 10px 10px;
+}
+.home{
+    background-image:url(./img/777.jpg);
+    min-height: 750px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.f1{
+    margin-top: -3%;
+    margin-left: 1%;
+}
+
+.mainhd{
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 7%;
+    
+}
+
+.mainhd:hover{
+    color: darkgoldenrod;
+}
+
+.tag{
+    height: 170px;
+    border: solid;
+    background-color: rgba(255, 255, 255, 0.452);
+    width: 20%;
+    margin-left: 39%;
+    margin-top: 6%;
+}
+.t1{
+    text-align: center;
+    font-weight: 600;
+
+}
+.t1:hover{
+    color: darkgoldenrod;
+}
+.about{
+    background-image: url(./img/pexels-terje-sollie-313700.jpg);
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.blur{
+    height: 700px;
+ background-color: rgba(255, 255, 255, 0.597);
+}
+.ab{
+    background-color: rgba(0, 0, 0, 0);
+    width: 40%;
+    height: 600px;
+    border: rgba(255, 255, 255, 0.597) solid 12%;
+    float: left;
+    padding: 1px;
+    
+    margin: 3%;
+}
+.i1{
+    width: 521;
+    height:521px ;
+    margin-top: 3%;
+    border-radius: 50%;
+    transition: 1s ease-in;;
+    margin-left: 80px;
+    
+}
+.i1:hover{
+    transform: rotate(89deg); 
+   
+ 
+}
+#s2{
+    color: darkgoldenrod;
+}
+.abli{
+    font-size: x-large;
+}
+#s2{
+    color: darkgoldenrod;
+}
+#p11{
+    color: darkgoldenrod;
+    font-weight: 600;
+   
+}
+
+/*        menu sec   */
+
+
+#bg1{
+    margin-left: 37%;
+    margin-top: 4%;
+}
+
+.menu{
+    background-image: url(./img/menubg.jpg);
+    min-height: 750px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ag1{
+    height: 750px;
+    background-color: rgba(255, 255, 255, 0.207);
+   
+}
+
+
+
+
+
+.food{
+    height: 200px;
+    width: 10%;
+    background-color: rgba(255, 255, 255, 0.699);
+    border: rgb(229, 167, 11) 5px solid;
+    float: left;
+    padding: 10px;
+    margin-left: 4%;
+    margin-top: 2%;
+    justify-content: space-evenly;
+    transition: .5s ease-in;
+
+}
+
+.me1{
+    height: 95px;
+    width: 98%;
+}
+#s1{
+    text-align: center;
+    font-weight: 400;
+    font-size:large;
+    color: black;
+}
+#but{
+    background-color: darkgoldenrod;
+    text-align: center;
+    margin-left: 57px;
+    margin-top: 1px;
+
+}
+.food:hover{
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 7px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: scale(1.1); 
+
+}
+
+#but:hover{
+    background-color: black;
+    color: darkgoldenrod;
+
+}
+#menuh1{
+    text-align: center;
+    color: black;
+    font-size: xx-large;
+    position: absolute;
+    top: 190%;
+    left: 47%;
+}
+#y1{
+    font-size: 4rem;
+    position: absolute;
+    font-weight:bolder;
+    top: 280%;
+    left: 30%;
+}
+#n1{
+    margin-left: 30%;
+    margin-top: 0%;
+}
+#e1{
+    margin-left: 2%;
+    margin-top: 0%;  
+}
+#ph1{
+    margin-left: 2%;
+    margin-top: 0%;
+}
+#t1{
+    margin-left: 30%;
+    margin-top: 1%;  
+}
+.fo1{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.contact{
+   
+    height: 350px;
+}
+
+
+#z1{
+    height: 30px;
+    width: 70px;
+    background-color: darkgoldenrod;
+    left: 47%;
+    top: 350%;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
